@@ -5,8 +5,9 @@ Aplicación para la organización de una Institución Educativa, donde se pueden
  - Express
  - JWT
  - Bycrypt
- - Passpaport
+ - Passaport
  - mongoose
+ - OAuth
 
 ## Instalación
 `npm install`
